@@ -5,3 +5,4 @@ These are the files, scripts, cookbooks, etc. used in the
 
 * *first-vagrant* - Our First Vagrant Box
 * *first-chef* - Our First Chef Recipe
+* *www-db* - Vagrant Database and Web Server
