@@ -39,7 +39,7 @@ end
 template "#{node['statedb']['document_root']}/index.php" do
   source "index.php.erb"
   variables(
-		:name => 'STAREast 2018',
+		:name => 'STPCon Spring 2018',
 		:db_host => "192.168.33.10",
 		:db_name => node['statedb']['database']['dbname'],
 		:db_user => node['statedb']['database']['statedb_username'],
